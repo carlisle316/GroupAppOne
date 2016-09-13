@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="tvdpi"
+    format="7"
+    timestamp="40251649796524"
+    token="-5589828428474004402" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="38405569885281" >
+        <artifact
+            location="/Users/chriscarlisle/Desktop/GroupAppOne/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="40165353806281" >
+        <artifact
+            location="/Users/chriscarlisle/Desktop/GroupAppOne/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/chriscarlisle/Desktop/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="40251649796524" />
+
+</instant-run>
