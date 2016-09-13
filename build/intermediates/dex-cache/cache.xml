@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_4d53ffb33da26402bb0122c3e7f24232f3d649bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0681327b9c589415b1005ed15875b7b6e9aeb641/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6d2b2c4144baeed5eb120a1596a21697f67904ad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dc0a12cd7adbc620f774c3474b142daaa80cefbe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_ac543a93393943920efd6a97282a186b8cf986c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_254bb357ef5ece8e66eced905b54526cc395b399/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_82dcfecf0524ff3455894728edc769d67cf42fca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_2b6255d84b68e2cd54a6a316296371b7c8af2d3a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_875665fd6e17ba7a09970e3ab660f11e45c716e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_ce488ee59265fe8bbc8bf07002a01da6d120a315/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_b93924f88897ab8460d56dfa7c6c8f3d4fc1f2e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="49be7b9e70edec3adf245b0abb926db6ea62ae9f">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c98dea901a2131fbb0ba200662e0bc156f3b341/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_e9f3ae39a981147daf40356486bc26e8c13fab37/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_661944347e7e9a8d697445da37401c2e99b7c776/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9a31cf6dfd13b706436ca58774ef08c050b30fe0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="438bb9a9d22fb8d6deca11ff1d1868f1a00e3e30">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a6981a49eec98c2ef7667ae7df3a14b3b519644/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/chriscarlisle/GroupAppOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c353500c0e83b0a4a5f742c731ebc49b2c1451b0/classes.dex" />
+    </item>
+
+</items>
