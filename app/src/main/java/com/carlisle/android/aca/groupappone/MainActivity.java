@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     TextView EmailInput;
     Button ListButton;
     TextView ListViewInput;
+    Button EmailButton;
+    Button MapsButton;
 
 
     @Override
@@ -31,7 +33,8 @@ public class MainActivity extends AppCompatActivity {
         EmailInput = (TextView) findViewById(R.id.Email);
         ListButton = (Button) findViewById(R.id.ListButton);
         ListViewInput = (TextView) findViewById(R.id.List);
-        Button = (Button) findViewById(R.id.GEmail);
+        EmailButton = (Button) findViewById(R.id.GEmail);
+        MapsButton = (Button) findViewById(R.id.GLocation)
 
 
         ListButton.setOnClickListener(new View.OnClickListener() {
@@ -52,12 +55,28 @@ public class MainActivity extends AppCompatActivity {
                 PhoneNumber = PhoneNumberInput.getText().toString();
                 Email = EmailInput.getText().toString();
 
-                Intent intent = new Intent(intent.ACTION_SEND);
+                ListViewInput.setText("Name:" + Name + "\n" + "Address1:" + Address1 + "\n",
+                        + "Address2:" + Address2 + "\n" + "PhoneNumber:" + PhoneNumber + "\n" + "Email:" + Email + "\n");
+
+
+            }
+        });
+
+        EmailButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent intent = new Intent(Intent.ACTION_SEND);
                 intent.setType("plain/test");
                 startActivity(Intent.createChooser(intent, ""));
 
-                ListViewInput.setText("Name:" + Name + "\n" + "Address1:" + Address1 + "\n" + "Address2:" + Address2 + "\n" + "PhoneNumber:" + PhoneNumber + "\n" + "Email:" + Email + "\n");
 
+            }
+        });
+
+        MapsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
 
             }
         });

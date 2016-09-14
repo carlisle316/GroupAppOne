@@ -12,10 +12,12 @@ android {
         versionName "1.0"
     }
     buildTypes {
-        release {
+
+        def type = release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+        type
     }
 }
 
@@ -23,6 +25,6 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.2.0'
-    compile 'com.google.android.gms:play-services:9.4.0’
+    compile 'com.google.android.gms:play-services:9.4.0'
 
 }

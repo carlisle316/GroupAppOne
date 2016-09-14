@@ -4,11 +4,14 @@
     android:layout_height="match_parent"
     android:weightSum="1"
     android:backgroundTint="@color/abc_background_cache_hint_selector_material_light"
-    android:foreground="@color/abc_primary_text_disable_only_material_dark">
+    android:foreground="@color/abc_primary_text_disable_only_material_dark"
+    android:background="#89e252">
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="46dp">
+        android:layout_height="46dp"
+        android:baselineAligned="false"
+        android:background="#3ae440">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -28,7 +31,8 @@
         android:layout_width="match_parent"
         android:layout_height="187dp"
         android:layout_weight="0.50"
-        android:foregroundTint="@color/abc_background_cache_hint_selector_material_light">
+        android:foregroundTint="@color/abc_background_cache_hint_selector_material_light"
+        android:background="#4af055">
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="652dp"
@@ -117,12 +121,13 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="#629add">
         <Button
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
             android:layout_height="80dp"
-            android:text="Glocation"
+            android:text="Map it"
             android:id="@+id/GLocation"
             android:layout_weight="0.00"
             android:layout_gravity="left|bottom"
@@ -131,7 +136,7 @@
             style="?android:attr/buttonStyleSmall"
             android:layout_width="wrap_content"
             android:layout_height="80dp"
-            android:text="ListView"
+            android:text="Add"
             android:id="@+id/ListButton"
             android:layout_gravity="bottom|right|center_horizontal"
             android:textSize="30dp" />
@@ -147,5 +152,6 @@
     <TextView
         android:layout_width="358dp"
         android:layout_height="wrap_content"
-        android:id="@+id/List" />
+        android:id="@+id/List"
+        android:background="#629add" />
 </LinearLayout>
