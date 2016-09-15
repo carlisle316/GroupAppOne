@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Group App One</string>
+    <string name="fab_five">Fab Five</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_address_line_1">Contact Address Line 1</string>
+    <string name="contact_address_2">Contact Address 2</string>
+    <string name="contact_phone_number">Contact Phone Number</string>
+    <string name="contact_email">Contact Email</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.carlisle.android.aca.groupappone;
+package com.gabe.android.aca.groupappone;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     Button EmailButton;
     Button MapsButton;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         ListButton = (Button) findViewById(R.id.ListButton);
         ListViewInput = (TextView) findViewById(R.id.List);
         EmailButton = (Button) findViewById(R.id.GEmail);
-        MapsButton = (Button) findViewById(R.id.GLocation)
+        MapsButton = (Button) findViewById(R.id.Glocation);
 
 
         ListButton.setOnClickListener(new View.OnClickListener() {
@@ -55,9 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 PhoneNumber = PhoneNumberInput.getText().toString();
                 Email = EmailInput.getText().toString();
 
-                ListViewInput.setText("Name:" + Name + "\n" + "Address1:" + Address1 + "\n",
-                        + "Address2:" + Address2 + "\n" + "PhoneNumber:" + PhoneNumber + "\n" + "Email:" + Email + "\n");
-
+                ListViewInput.setText("Name:" + Name + "\n" + "Address1:" + Address1 + "\n" + "Address2:" + Address2 + "\n" + "PhoneNumber:" + PhoneNumber + "\n" + "Email:" + Email + "\n");
 
             }
         });
@@ -65,15 +62,11 @@ public class MainActivity extends AppCompatActivity {
         EmailButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 Intent intent = new Intent(Intent.ACTION_SEND);
                 intent.setType("plain/test");
-                startActivity(Intent.createChooser(intent, ""));
-
-
+                startActivity(Intent.createChooser(intent,""));
             }
         });
-
         MapsButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -82,3 +75,11 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+
+
+
+
+
+
+
