@@ -92,10 +92,6 @@
         "source": "/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/chriscarlisle/GroupAppOne/app/build/intermediates/res/merged/debug/layout/list_detail.xml",
-        "source": "/Users/chriscarlisle/GroupAppOne/app/src/main/res/layout/list_detail.xml"
-    },
-    {
         "merged": "/Users/chriscarlisle/GroupAppOne/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/chriscarlisle/GroupAppOne/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_material.xml"
     },

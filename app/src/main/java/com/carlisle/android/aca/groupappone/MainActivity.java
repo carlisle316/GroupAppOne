@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.carlisle.android.aca.groupappone.R;
+
 public class MainActivity extends AppCompatActivity {
 
     TextView NameInput;
@@ -46,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
                 String Address2;
                 String PhoneNumber;
                 String Email;
-
 
                 Name = NameInput.getText().toString();
                 Address1 = Address1Input.getText().toString();
